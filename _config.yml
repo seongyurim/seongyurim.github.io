@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: seongyurim # the main title
+title: YurimSeong # the main title
 
 tagline: 'Frontend Development: From Basics to Beyond' # it will display as the subtitle
 
