@@ -30,6 +30,7 @@ package-lock.json
 !.editorconfig
 !.nojekyll
 !.travis.yml
+avatar.png
 
 # Ignore specific folders
 node_modules/
