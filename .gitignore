@@ -23,3 +23,14 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+
+# Ignore hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+
+# Ignore specific folders
+node_modules/
+dist/
