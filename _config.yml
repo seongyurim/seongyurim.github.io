@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GlowWithGrit # the main title
+title: glowwithgrit # the main title
 
-tagline: '매일 남기는 공부 기록' # it will display as the subtitle
+tagline: '매일 남기는 학습 기록' # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   프론트엔드 개발에 대한 통찰과 프로젝트를 공유하며, 초보 개발자의 여정을 기록하는 블로그입니다. Sharing insights and projects on frontend development, documenting a beginner developer's journey.
@@ -224,5 +224,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+# 사이트맵 자동생성 플러그인
 plugins:
   - jekyll-sitemap
