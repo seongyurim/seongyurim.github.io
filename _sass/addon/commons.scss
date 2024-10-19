@@ -294,6 +294,9 @@ sup {
     min-width: 100%;
     overflow-x: auto;
     border-spacing: 0;
+    white-space: normal;
+    word-break: break-word;
+    overflow-wrap: break-word;
 
     thead {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
@@ -1391,9 +1394,9 @@ search {
     }
   }
 
-  div.content .table-wrapper > table {
-    min-width: 70%;
-  }
+  // div.content .table-wrapper > table {
+  //   min-width: 70%;
+  // }
 
   /* button 'back-to-Top' position */
   #back-to-top {

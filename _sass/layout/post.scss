@@ -577,3 +577,17 @@ header {
     display: none !important;
   }
 }
+
+// Added by Owner
+figure {
+  text-align: center;
+}
+
+figure > img {
+  max-width: 500px;
+}
+
+figcaption {
+  color: var(--figcaption-color);
+  font-size: 0.85rem;
+}
