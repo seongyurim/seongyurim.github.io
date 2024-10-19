@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: GlowWithGrit # the main title
 
-tagline: '프론트엔드 개발자로 서서히 빛나기 위해 그 여정을 기록합니다.' # it will display as the subtitle
+tagline: '매일 남기는 공부 기록' # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   프론트엔드 개발에 대한 통찰과 프로젝트를 공유하며, 초보 개발자의 여정을 기록하는 블로그입니다. Sharing insights and projects on frontend development, documenting a beginner developer's journey.
