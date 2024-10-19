@@ -54,6 +54,8 @@ body {
         main & {
           @if $i == 2 {
             margin: 2.5rem 0 1.25rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #e3e3e3;
           } @else {
             margin: 2rem 0 1rem;
           }
