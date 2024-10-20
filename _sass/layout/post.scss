@@ -583,8 +583,8 @@ figure {
   text-align: center;
 }
 
-figure > img {
-  max-width: 500px;
+figure > * {
+  max-width: 100%;
 }
 
 figcaption {
